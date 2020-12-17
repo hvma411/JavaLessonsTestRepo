@@ -16,5 +16,7 @@ public class Main {
         System.out.println();
 
         Planet mars = new Planet("Mars", "Solar System", false);
+
+        Spaceship discovery = new Spaceship("Discovery", "Warp", "Science");
     }
 }
