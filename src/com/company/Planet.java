@@ -9,6 +9,6 @@ public class Planet {
     public Planet(String name, String location, boolean isLiveable) {
         this.name = name;
         this.location = location;
-        this.ableToLive = isLiveable;
+        this.isLiveable = isLiveable;
     }
 }
