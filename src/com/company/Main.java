@@ -8,5 +8,10 @@ public class Main {
 
         System.out.printf("%s's surname is %s", name, lastName);
         System.out.println("Some change for a new commit in git");
+
+
+        Alien alien1 = new Alien("Michael Burnham", "Human", "Doctari Alpa", "Discovery" );
+
+        System.out.println(alien1);
     }
 }
