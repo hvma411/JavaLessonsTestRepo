@@ -14,5 +14,7 @@ public class Main {
 
         System.out.println(alien1);
         System.out.println();
+
+        Planet mars = new Planet("Mars", "Solar System", false);
     }
 }
