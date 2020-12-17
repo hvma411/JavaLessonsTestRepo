@@ -7,5 +7,6 @@ public class Main {
 	    String lastName = "Pulaski";
 
         System.out.printf("%s's surname is %s", name, lastName);
+        System.out.println("Some change for a new commit in git");
     }
 }
