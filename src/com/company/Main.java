@@ -13,5 +13,6 @@ public class Main {
         Alien alien1 = new Alien("Michael Burnham", "Human", "Doctari Alpa", "Discovery" );
 
         System.out.println(alien1);
+        System.out.println();
     }
 }
